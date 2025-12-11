@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/MyGame/Scenes/MainMenu.unity
     guid: 025e26bd671a02b4aafa54fb6d5bf932
   - enabled: 1
+    path: Assets/MyGame/Scenes/Settings.unity
+    guid: 82f33551fb363dc4eac4657a0bd9efa8
+  - enabled: 1
     path: Assets/MyGame/Scenes/VR.unity
     guid: da83419f42407454d8109fb1acdf9e91
   - enabled: 1
